@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jorge-mauricio.github.io/snippets-i019vt/sitemap.xml
